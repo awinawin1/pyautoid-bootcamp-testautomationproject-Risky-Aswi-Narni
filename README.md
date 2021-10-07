@@ -16,3 +16,7 @@ Final Project Pyautoid Bootcamp
 >> pytest -v test_login.py --html=reports.html  
 
 ### 3. Test case
+![testcase](https://user-images.githubusercontent.com/43516997/136474520-3833165a-a81e-4551-ba0f-c0418e7966a0.PNG)
+
+### 4. Hasil Report
+Hasil report dapat diakses
