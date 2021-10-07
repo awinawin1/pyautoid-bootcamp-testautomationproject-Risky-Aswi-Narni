@@ -19,4 +19,4 @@ Final Project Pyautoid Bootcamp
 ![testcase](https://user-images.githubusercontent.com/43516997/136474520-3833165a-a81e-4551-ba0f-c0418e7966a0.PNG)
 
 ### 4. Hasil Report
-Hasil report dapat diakses
+Hasil report dapat diakses pada file diatas
