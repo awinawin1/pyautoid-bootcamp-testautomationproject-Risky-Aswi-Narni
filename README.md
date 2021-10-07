@@ -1,6 +1,5 @@
 ## Test Automation Project
 Final Project Pyautoid Bootcamp
----
 
 ### 1. Persiapan
 - python 3.8.8
